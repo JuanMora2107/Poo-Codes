@@ -1,0 +1,1 @@
+figurasplanas.Rectangulo
